@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My360Safe</string>
+    <string name="allow_open_auto_mode">允许开启自启模式</string>
+    <string name="allow_prove_plane">允许参加改进计划</string>
+</resources>
